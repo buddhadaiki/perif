@@ -3,3 +3,6 @@
 //! Device communication core for perif.
 //!
 //! Everything that talks to hardware lives here; frontends stay thin.
+
+pub mod devices;
+pub mod hid;

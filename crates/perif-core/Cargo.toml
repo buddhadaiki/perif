@@ -7,3 +7,4 @@ license.workspace = true
 repository.workspace = true
 
 [dependencies]
+hidapi = { version = "2.6.7", features = ["windows-native"] }
