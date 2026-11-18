@@ -1,0 +1,9 @@
+[package]
+name = "perif-core"
+description = "Device communication core for perif"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
